@@ -3,3 +3,5 @@ So LucOS is an "Operational System" that is inspired by operating systems, we ar
 
 LucOS is developed in python an you need to have python installed before running the system.
 To start up the system, navigate to '(Version name/main folder) \ LucSys \ Boot \' and run Boot.exe or Boot.py, they are the same.
+
+hehe
